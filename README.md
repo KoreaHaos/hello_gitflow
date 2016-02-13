@@ -22,3 +22,5 @@ Or, you can just clone this repo in a [Cloud9](https://ide.c9.io) Virtual Machin
 Whatever floats your boat!
 
 Happy Coding!
+
+Source : https://github.com/nvie/gitflow/wiki/Linux
