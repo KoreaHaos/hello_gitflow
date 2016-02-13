@@ -1,0 +1,13 @@
+[browser-dump 2/14/16 5am]
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=gitflow%20tutorial&oq=gitflow%20tutorial&aqs=chrome..69i57j0l5.2719j0j8
+https://www.google.com/search?espv=2&q=gitflow&oq=gitflow&gs_l=serp.3..35i39l2j0i10i67j0i67j0i10j0i67j0i10i67j0i10j0j0i10.2326.2326.0.2638.1.1.0.0.0.0.141.141.0j1.1.0....0...1.1.64.serp..0.1.138.pNtv_lcrnAA
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=bash%20get%20name%20of%20script%20being%20run&oq=bash%20get%20name%20of%20script%20being%20run&aqs=chrome..69i57.6471j0j8
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=bash%20get%20current%20directory&oq=bash%20get%20current%20directory&aqs=chrome..69i57j0l5.3567j0j8
+https://github.com/nvie/gitflow
+https://github.com/nvie/gitflow/wiki/Linux
+http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/
+https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow
+http://yakiloo.com/getting-started-git-flow/
+http://yakiloo.com/setup-requirements/
+http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in
+http://stackoverflow.com/questions/192319/how-do-i-know-the-script-file-name-in-a-bash-script
